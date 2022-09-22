@@ -30,9 +30,9 @@ public class Agenda {
     }
 
     public void printAgenda() {
-        System.out.println("entities.Agenda: ");
+        System.out.println("Agenda: ");
         for (int i = 0; i < people.length; i++) {
-            System.out.println("entities.Person " + (i + 1) + ": " + people[i]);
+            System.out.println("Person " + (i + 1) + ": " + people[i]);
         }
     }
 

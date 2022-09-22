@@ -25,6 +25,6 @@ public class Main {
 
         myAgenda.printAgenda();
 
-        myAgenda.printPerson(0);
+        myAgenda.printPerson(9);
     }
 }
